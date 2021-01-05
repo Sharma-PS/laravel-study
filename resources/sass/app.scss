@@ -1,0 +1,33 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    font-family: 'Nunito';
+}
+
+footer{
+    text-align: center;
+    background: #4a5568;
+    color: white;
+    padding: 20px;
+}
+
+.pizza-details{
+    color: white;
+    padding: 2px;
+}
+
+.pizza-details a{
+    color: orange;
+    text-decoration: underline;
+}
+
+.heading{
+    color: orange;
+}
